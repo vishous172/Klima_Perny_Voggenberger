@@ -8,9 +8,9 @@
 <br>
 **preprocessing_validation.ipynb**: Darstellen der Anomalien mittels geoview <br>
 <br>
-**Analog_Methode.ipynb**: Implementierung der Analog Methode sowie Beschreibung dieser <br>
+**Analog Methode.ipynb**: Implementierung der Analog Methode sowie Beschreibung dieser <br>
 <br>
-**Validation with Spartacus.ipynb**: Validierung mit dem Spartacus Datensatz für ein Jahr <br>
+**Verifikation mit Spartacus.ipynb**: Validierung mit dem Spartacus Datensatz für ein Jahr <br>
 <br>
 **Daten**:  <br>
 *Analoga.p* - gefundene Analog-Tage (3 Analoga)<br>
